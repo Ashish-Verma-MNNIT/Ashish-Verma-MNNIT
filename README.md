@@ -1,8 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  Namaste :pray:
 ---
 
-I am **MNNIT student**, learning various technologies and expanding my toolbox.
-I create web apps and practice coding. Still a lot to do...
+I am a 2nd year student at **MNNIT**, learning various technologies and expanding my toolbox.
 
 ---
 
