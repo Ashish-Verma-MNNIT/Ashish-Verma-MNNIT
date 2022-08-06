@@ -5,7 +5,7 @@
 
 - 📫 **ashishkv.2016@gmail.com**
 
-- 📄 [My resume](https://drive.google.com/file/d/1nmLwKYZOFB5wlRBCLBqh_frkk1n9RAKL/view?usp=sharing)
+- 📄 [My resume](https://drive.google.com/file/d/1wkWIRGCtJxdxxJObzbadajIdS4lH1waQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
